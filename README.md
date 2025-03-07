@@ -25,8 +25,3 @@ This project includes the following reports:
 
 ## 🛠 Technologies Used
 - **🗄 SQL** (SQL Server)
-
-## ⚙️ Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/dipanjansaha01/sql-data-analytics-project.git
