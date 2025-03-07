@@ -18,6 +18,11 @@ A **comprehensive collection** of SQL scripts for **data exploration, analytics,
 - 🎯 **Segmentation** – Organize data into meaningful categories.
 - 🏗️ **Part-to-Whole** – Compare different metrics.
 
+## 📂 Reports Included
+This project includes the following reports:
+- 📄 **Customer Report**: `gold.report_customers.csv` – Contains insights on customer demographics, behavior, and purchasing trends.
+- 📄 **Product Report**: `gold.report_products.csv` – Provides details on product performance, sales trends, and inventory insights.
+
 ## 🛠 Technologies Used
 - **🗄 SQL** (SQL Server)
 
