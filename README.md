@@ -1,4 +1,4 @@
-# 🚀 SQL Data Analytics Project
+# 🚀 Customer & Product Analytics with SQL Project
 
 ## 📌 Overview
 A **comprehensive collection** of SQL scripts for **data exploration, analytics, and reporting**. These scripts help **data analysts and BI professionals** explore, segment, and analyze relational databases using best SQL practices.
